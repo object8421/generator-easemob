@@ -1,7 +1,6 @@
 # 前端集成自动化项目构建方案Hawk
 
 
-<img src="https://raw.githubusercontent.com/qihong1983/generator-easemob/master/app/logo.png"  />
 
 
 by 小洪 qihongbin@163.com
