@@ -1,0 +1,8 @@
+{
+	"mock_online_address": "<%= mock_online_address %>",
+	"online_host": "<%= online_host %>",
+	"local_host": "<%= local_host %>",
+	"qa_host": "<%= local_host %>",
+	"ftp_online_root" : "<%= ftp_online_root %>",
+	"ftp_qa_root": "<%= ftp_qa_root %>"
+}
