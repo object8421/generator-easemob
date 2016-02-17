@@ -7,13 +7,10 @@ by 小洪 qihongbin@163.com
 
 ## Generator-Easemob 方案简介
 
-> Generator-Easemob 是web前端集成自动化构建方案，用来生成项目代码骨架，打包合并等。你可以方便的基于此结构来开发你的项目，并享用到 web前端的诸多优秀特性。(最佳实践)
+> Generator-Easemob 
 
+是web前端集成自动化构建方案，用来生成项目代码骨架，打包合并等。你可以方便的基于此结构来开发你的项目，并享用到 web前端的诸多优秀特性。(最佳实践)
 
-
-### 视频演示
-
-[![asciicast](https://asciinema.org/a/eoxuv1oo14f9cwcmxvgu3pxnu.png)](https://asciinema.org/a/eoxuv1oo14f9cwcmxvgu3pxnu)
 
 ### 自动化构建17点约定(约定胜于配置)
 
