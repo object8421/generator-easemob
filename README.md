@@ -1,18 +1,18 @@
 # 前端集成自动化项目构建方案Hawk
 
 
-<img src="https://raw.githubusercontent.com/qihong1983/generator-hawk/master/app/logo.png"  />
+<img src="https://raw.githubusercontent.com/qihong1983/generator-easemob/master/app/logo.png"  />
 
 
 by 小洪 qihongbin@163.com
 
-## Generator-Hawk 方案简介
+## Generator-Easemob 方案简介
 
-> Generator-Hawk 是web前端项目脚手架方案，用来生成项目代码骨架，你可以方便的基于此结构来开发你的项目，并享用到 web前端的诸多优秀特性。
+> Generator-Easemob 是web前端项目脚手架方案，用来生成项目代码骨架，你可以方便的基于此结构来开发你的项目，并享用到 web前端的诸多优秀特性。
 
 ### 安装
 
-> npm install -g yo generator-hawk
+> npm install -g yo generator-easemob
 
 ### 功能介绍
 
@@ -94,7 +94,7 @@ export LESSHARSET=utf-8 #$ git log 命令不像其它 vcs 一样，n 条 log 从
 
 ## 所需工具
 
-<img src="https://raw.githubusercontent.com/qihong1983/generator-hawk/master/app/tools.jpg" style="width:487px; height:auto;" />
+<img src="https://raw.githubusercontent.com/qihong1983/generator-easemob/master/app/tools.jpg" style="width:487px; height:auto;" />
 
 
 ### 主要工具
@@ -120,26 +120,26 @@ export LESSHARSET=utf-8 #$ git log 命令不像其它 vcs 一样，n 条 log 从
 
 > $npm install –g bower 		  #bower安装
 
-> $npm install –g generator-hawk  #generator-hawk安装
+> $npm install –g generator-easemob  #generator-easemob安装
 
 ## 走起
 
-<img src="https://raw.githubusercontent.com/qihong1983/generator-hawk/master/app/zouqi.jpg"  />
+<img src="https://raw.githubusercontent.com/qihong1983/generator-easemob/master/app/zouqi.jpg"  />
 
 
 ### 基本命令-- yo & gulp
 
 #### yo初始化
 
->yo hawk:h:打印帮助
+>yo easemob:h:打印帮助
 
->yo hawk:初始化一个标准的Project
+>yo easemob:初始化一个标准的Project
 
->yo hawk:初始化一个页面
+>yo easemob:初始化一个页面
 
->yo hawk:mod:初始化一个模块
+>yo easemob:mod:初始化一个模块
 
->yo hawk:widget:初始化一个组件  
+>yo easemob:widget:初始化一个组件  
 
 #### gulp打包
 
@@ -211,7 +211,7 @@ export LESSHARSET=utf-8 #$ git log 命令不像其它 vcs 一样，n 条 log 从
 
 ##### 目录和文件结构图
 
-<img src="https://raw.githubusercontent.com/qihong1983/generator-hawk/master/app/dtree.jpg"  />
+<img src="https://raw.githubusercontent.com/qihong1983/generator-easemobk/master/app/dtree.jpg"  />
 
 
 
@@ -227,7 +227,7 @@ export LESSHARSET=utf-8 #$ git log 命令不像其它 vcs 一样，n 条 log 从
 
 > 如图
 
-<img src="https://raw.githubusercontent.com/qihong1983/generator-hawk/master/app/includehtml.jpg"  />
+<img src="https://raw.githubusercontent.com/qihong1983/generator-easemob/master/app/includehtml.jpg"  />
 
 
 ##### 采用seajs的加载和定义(//seajs.org)
@@ -300,7 +300,7 @@ define(function (require, exports, module) {
 
 > 原理图
 
-<img src="https://raw.githubusercontent.com/qihong1983/generator-hawk/master/app/http_combo.jpg"  />
+<img src="https://raw.githubusercontent.com/qihong1983/generator-easemob/master/app/http_combo.jpg"  />
 
 > 引用方式
 
